@@ -1,3 +1,4 @@
+<?php header('Location: kripikmasbro.gopagoda.com'); ?>
 <html>
 	<head>
 		<title>Segera Hadir!</title>
