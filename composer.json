@@ -1,0 +1,11 @@
+{
+    "name": "ongischool/site",
+    "description": "Official site of Ongischool",
+    "authors": [
+        {
+            "name": "Yuri Pratama",
+            "email": "yuripertamax@gmail.com"
+        }
+    ],
+    "require": {}
+}
