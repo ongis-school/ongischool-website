@@ -270,6 +270,14 @@ to {
 	padding: 45px 0;
 	text-align:center;
 }
+.logo a {
+	display: block;
+	width: 50%;
+	margin: 0 auto;
+}
+.logo a img {
+	width: 100%;
+}
 .btn-large {
 	font-size:18px;
 	padding:20px 50px;
