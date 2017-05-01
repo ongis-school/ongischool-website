@@ -520,7 +520,7 @@ Program ini bertujuan untuk menciptakan talent - talent berbasis industri kreati
                     
                  
                         <!--begin newsletter-form -->
-                       <a href="bit.ly/daftarongis2" class="button_transparent"><strong>DAFTAR PROGRAM ONGISSCHOOL 2.0 SEKARANG !</strong></a>
+                       <a href="http://bit.ly/daftarongis2" class="button_transparent"><strong>DAFTAR PROGRAM ONGISSCHOOL 2.0 SEKARANG !</strong></a>
                         <!--end newsletter-form -->
                                </div>
                 <!--end newsletter_form_wrapper -->
