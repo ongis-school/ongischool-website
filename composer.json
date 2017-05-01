@@ -1,10 +1,9 @@
 {
-    "name": "ongischool/site",
-    "description": "Official site of Ongischool",
+    "name": "ongischool/www",
     "authors": [
         {
-            "name": "Yuri Pratama",
-            "email": "yuripertamax@gmail.com"
+            "name": "Ongis School",
+            "email": "dev@ongis.school"
         }
     ],
     "require": {}
